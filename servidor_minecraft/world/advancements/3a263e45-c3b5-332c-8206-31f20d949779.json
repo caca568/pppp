@@ -643,6 +643,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-06 23:49:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2024-12-06 23:10:20 +0000"
@@ -670,6 +676,12 @@
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2024-12-06 23:10:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2024-12-06 23:47:03 +0000"
     },
     "done": true
   },
@@ -964,6 +976,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2024-12-06 22:55:18 +0000",
+      "minecraft:taiga": "2024-12-06 23:53:38 +0000",
       "minecraft:birch_forest": "2024-12-06 23:00:05 +0000",
       "minecraft:beach": "2024-12-06 22:56:14 +0000",
       "minecraft:dark_forest": "2024-12-06 22:58:23 +0000",
