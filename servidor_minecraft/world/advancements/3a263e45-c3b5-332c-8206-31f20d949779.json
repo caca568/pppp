@@ -751,6 +751,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_axe": "2024-12-07 19:52:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2024-12-06 23:10:07 +0000"
@@ -978,6 +984,7 @@
       "minecraft:forest": "2024-12-06 22:55:18 +0000",
       "minecraft:taiga": "2024-12-06 23:53:38 +0000",
       "minecraft:birch_forest": "2024-12-06 23:00:05 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-12-07 19:50:25 +0000",
       "minecraft:beach": "2024-12-06 22:56:14 +0000",
       "minecraft:dark_forest": "2024-12-06 22:58:23 +0000",
       "minecraft:river": "2024-12-06 22:59:47 +0000",
@@ -1126,6 +1133,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2024-12-06 23:00:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_axe": "2024-12-07 19:52:21 +0000"
     },
     "done": true
   },
