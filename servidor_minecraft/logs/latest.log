@@ -60,3 +60,23 @@
 [20:08:02] [Server thread/INFO]: <ElPapu45> habla
 [20:08:49] [Server thread/INFO]: <emicraftxd> tepeate que encontre una aldea
 [20:08:55] [Server thread/INFO]: [ElPapu45: Teleported ElPapu45 to emicraftxd]
+[20:09:25] [Server thread/INFO]: <emicraftxd> yo voy a hacer la granja de aldeanos
+[20:09:30] [Server thread/INFO]: <emicraftxd> asi no se mueren
+[20:10:00] [Server thread/INFO]: ElPapu45 was slain by Iron Golem
+[20:10:03] [Server thread/INFO]: [ElPapu45: Teleported ElPapu45 to emicraftxd]
+[20:10:11] [Server thread/INFO]: <emicraftxd> xdd
+[20:10:20] [Server thread/INFO]: <emicraftxd> xddxdxdxdxdxdxdxdxdxdxd
+[20:11:11] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=1758, y=72, z=4653} fx{x=1757, y=70, z=4652}
+[20:11:11] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=1758, y=72, z=4653} fx{x=1757, y=70, z=4652}
+[20:11:11] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=1758, y=72, z=4653} fx{x=1757, y=70, z=4652}
+[20:14:56] [Server thread/WARN]: emicraftxd moved wrongly!
+[20:18:03] [Server thread/INFO]: ElPapu45 lost connection: You logged in from another location
+[20:18:03] [Server thread/INFO]: ElPapu45 left the game
+[20:18:03] [Server thread/INFO]: ElPapu45[/0:0:0:0:0:0:0:1%0:43084] logged in with entity id 13422 at (1758.237500011921, 71.0, 4654.591272616352)
+[20:18:03] [Server thread/INFO]: ElPapu45 joined the game
+[20:18:24] [Server thread/INFO]: ElPapu45 lost connection: You logged in from another location
+[20:18:24] [Server thread/INFO]: ElPapu45 left the game
+[20:18:24] [Server thread/INFO]: ElPapu45[/0:0:0:0:0:0:0:1%0:43956] logged in with entity id 13459 at (1754.5632807951927, 71.0, 4656.869121388459)
+[20:18:24] [Server thread/INFO]: ElPapu45 joined the game
+[20:18:54] [Server thread/INFO]: ElPapu45 lost connection: Timed out
+[20:18:54] [Server thread/INFO]: ElPapu45 left the game
