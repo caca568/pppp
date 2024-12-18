@@ -1,2 +1,0 @@
-execute as @a if score @s TiempoEnCama matches 1 at @s if block ~ ~0.1 ~ #minecraft:beds run time add 5.3s
-execute as @a if score @s TiempoEnCama matches 1 at @s unless block ~ ~0.1 ~ #minecraft:beds run scoreboard players reset @s TiempoEnCama

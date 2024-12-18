@@ -1,2 +1,0 @@
-function polo:one_player_sleep
-scoreboard objectives add TiempoEnCama minecraft.custom:minecraft.sleep_in_bed
