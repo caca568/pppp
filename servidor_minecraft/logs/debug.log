@@ -13178,3 +13178,69 @@ Caused by: java.io.FileNotFoundException: https://raw.githubusercontent.com/Alex
 
 [03:33:24] [Server thread/DEBUG] [FML]: The world 1e4a057b (world) may have leaked: seen 55 times.
 
+[03:33:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:34:14] [Server thread/DEBUG] [FML]: The world 139a36e3 (world) may have leaked: seen 60 times.
+
+[03:34:14] [Server thread/DEBUG] [FML]: The world 1e4a057b (world) may have leaked: seen 60 times.
+
+[03:34:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:35:04] [Server thread/DEBUG] [FML]: The world 139a36e3 (world) may have leaked: seen 65 times.
+
+[03:35:04] [Server thread/DEBUG] [FML]: The world 1e4a057b (world) may have leaked: seen 65 times.
+
+[03:35:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:35:54] [Server thread/DEBUG] [FML]: The world 139a36e3 (world) may have leaked: seen 70 times.
+
+[03:35:54] [Server thread/DEBUG] [FML]: The world 1e4a057b (world) may have leaked: seen 70 times.
+
+[03:36:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:36:44] [Server thread/DEBUG] [FML]: The world 139a36e3 (world) may have leaked: seen 75 times.
+
+[03:36:44] [Server thread/DEBUG] [FML]: The world 1e4a057b (world) may have leaked: seen 75 times.
+
+[03:36:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:37:34] [Server thread/DEBUG] [FML]: The world 139a36e3 (world) may have leaked: seen 80 times.
+
+[03:37:34] [Server thread/DEBUG] [FML]: The world 1e4a057b (world) may have leaked: seen 80 times.
+
+[03:37:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:38:24] [Server thread/DEBUG] [FML]: The world 139a36e3 (world) may have leaked: seen 85 times.
+
+[03:38:24] [Server thread/DEBUG] [FML]: The world 1e4a057b (world) may have leaked: seen 85 times.
+
+[03:38:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:39:14] [Server thread/DEBUG] [FML]: The world 139a36e3 (world) may have leaked: seen 90 times.
+
+[03:39:14] [Server thread/DEBUG] [FML]: The world 1e4a057b (world) may have leaked: seen 90 times.
+
+[03:39:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:39:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:40:04] [Server thread/DEBUG] [FML]: The world 139a36e3 (world) may have leaked: seen 95 times.
+
+[03:40:04] [Server thread/DEBUG] [FML]: The world 1e4a057b (world) may have leaked: seen 95 times.
+
+[03:40:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:40:54] [Server thread/DEBUG] [FML]: The world 139a36e3 (world) may have leaked: seen 100 times.
+
+[03:40:54] [Server thread/DEBUG] [FML]: The world 1e4a057b (world) may have leaked: seen 100 times.
+
+[03:41:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:41:44] [Server thread/DEBUG] [FML]: The world 139a36e3 (world) may have leaked: seen 105 times.
+
+[03:41:44] [Server thread/DEBUG] [FML]: The world 1e4a057b (world) may have leaked: seen 105 times.
+
+[03:42:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:42:34] [Server thread/DEBUG] [FML]: The world 139a36e3 (world) may have leaked: seen 110 times.
+
+[03:42:34] [Server thread/DEBUG] [FML]: The world 1e4a057b (world) may have leaked: seen 110 times.
+
+[03:42:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:43:24] [Server thread/DEBUG] [FML]: The world 139a36e3 (world) may have leaked: seen 115 times.
+
+[03:43:24] [Server thread/DEBUG] [FML]: The world 1e4a057b (world) may have leaked: seen 115 times.
+
+[03:43:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:44:14] [Server thread/DEBUG] [FML]: The world 139a36e3 (world) may have leaked: seen 120 times.
+
+[03:44:14] [Server thread/DEBUG] [FML]: The world 1e4a057b (world) may have leaked: seen 120 times.
+
